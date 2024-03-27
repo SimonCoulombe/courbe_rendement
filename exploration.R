@@ -4,17 +4,17 @@
 
 
 # installation des packages (faire seulement une fois) -----
-# install.packages("here")
-# install.packages("stringr")
-# install.packages("dplyr")
-# install.packages("janitor")
-# install.packages("readr")
-# install.packages("tidyr")
-# install.packages("lubridate")
-# install.packages("ggplot2")
-# install.packages("remotes")
-# remotes::install_github("mountainmath/canbank")
-# remotes::install_github("mountainmath/cansim")
+install.packages("here")
+install.packages("stringr")
+install.packages("dplyr")
+install.packages("janitor")
+install.packages("readr")
+install.packages("tidyr")
+install.packages("lubridate")
+install.packages("ggplot2")
+install.packages("remotes")
+remotes::install_github("mountainmath/canbank")
+remotes::install_github("mountainmath/cansim")
 
 
 # chargement des libraries en mémoire -----
